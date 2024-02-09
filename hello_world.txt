@@ -1,0 +1,2 @@
+# git testing
+My frist github repo! Hello Odin
